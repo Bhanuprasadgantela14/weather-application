@@ -14,12 +14,13 @@ __pycache__/
 media/
 static/
 
+venv/
+
 # Environment-related
 .env
 .env.*
 .vscode/
 
-venv
 
 # Logs
 logs
