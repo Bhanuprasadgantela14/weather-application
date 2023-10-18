@@ -16,7 +16,7 @@ To run the Weather App locally on your machine, follow these steps:
 ```
 https://github.com/Bhanuprasadgantela14/weather-application.git
 ```
-3. Open a terminal and navigate to the project directory.
+3. Open a terminal and navigate to the project directory. Then cd into frontend directory.
 ```
 cd frontend
 ```
@@ -25,18 +25,13 @@ cd frontend
 npm install
 ```
 5. You Also need to start the django project in order to run the project.
-6. once you set up both the projects you are good to go.
-7. run both the projects.
-8. Open the app in your browser:
+6. So on next we will set backend repository also. For now,
+7. Open the app in your browser:
 - Open http://localhost:5173/ in your preferred browser.
 - The Weather App should now be running and accessible in your browser.
 
 
-## Deployment
-
-**Hosted online on ___ [URL Link]()**
-
-## Spin Up the Project
+## Backend Setup
 
 - Open the new terminal in root directoy::
 
@@ -99,6 +94,7 @@ python3 manage.py createsuperuser
 py manage.py runserver  # or;
 python manage.py runserver  # or;
 python3 manage.py runserver
+``````
 
 
 ## Usage
