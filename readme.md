@@ -61,11 +61,6 @@ source env/bin/activate  # for MAC/Linux
 pip install -r requirements.txt
 ```
 
-## Secure your project
-
-### .gitignore
-
-A standard .gitignore file has already added to the project root directory. 
 
 ### python-decouple
 
