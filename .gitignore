@@ -19,6 +19,8 @@ static/
 .env.*
 .vscode/
 
+venv
+
 # Logs
 logs
 *.log
