@@ -7,7 +7,7 @@ This is the Weather application to find weather for particular city.
 
 
 ## Deployment
-**View my deployment on ___ => [Live Demo]().**
+**View my deployment on ___ => [Live Demo](https://vite-react-simple-weather-app.netlify.app/).**
 
 ## Setup
 To run the Weather App locally on your machine, follow these steps:
