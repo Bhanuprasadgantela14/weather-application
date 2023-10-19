@@ -9,6 +9,8 @@ This is the Weather application to find weather for particular city.
 ## Deployment
 **View my deployment on ___ => [Live Demo](https://vite-react-simple-weather-app.netlify.app/).**
 
+## Screencast
+**[Video Demo of the Application](https://drive.google.com/file/d/1x7giDzm1dTkjtCY0_LucQhubyqU6n3AP/view).**
 ## Setup
 To run the Weather App locally on your machine, follow these steps:
 1.	Make sure you have Node.js installed on your machine.
